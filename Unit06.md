@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Revolutionary Mexico and the Legacies of Colonialism** <span
 id="6"></span> 
 *In many ways, the Mexican Revolution of 1910 represented the

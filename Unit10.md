@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: 1989 – Nonviolence and the End of The Cold War** <span
 id="10"></span> 
 *In the mid 1980s, the Soviet Union underwent extensive political and

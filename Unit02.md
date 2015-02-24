@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Revolutions and Modernity** <span id="2"></span> 
 **It is a commonplace among historians that the ‘modern age’ began with
 the French Revolution.  Though there were revolutions in the ancient

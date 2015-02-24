@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Two Revolutions in China - Liberalism and Marxism in a New
 Context** <span id="8"></span> 
 *In the twentieth century, China experienced two revolutions which

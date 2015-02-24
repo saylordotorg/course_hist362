@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The American Revolution - Ideas and Experience** <span
 id="4"></span> 
 *By the middle of the eighteenth century, Britain had colonies and

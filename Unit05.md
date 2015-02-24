@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The French Revolution and the Birth of Modernity** <span
 id="5"></span> 
 **The French Revolution was perhaps the most important of modern

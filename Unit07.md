@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Revolutionary Russia – Marxist Theory and Agrarian Realities**
 <span id="7"></span> 
 *The revolutions of 1905 and 1917 reshaped Russia’s political

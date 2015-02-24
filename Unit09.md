@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Revolution and Religion - The Islamic Republic of Iran** <span
 id="9"></span> 
 *Iran’s Islamic Revolution of 1978-1979 shared similarities with other

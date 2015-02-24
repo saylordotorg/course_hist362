@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: What is a Revolution?** <span id="1"></span> 
 **This unit will seek to answer the seemingly basic question: what is a
 revolution? Historians have debated this question since the great

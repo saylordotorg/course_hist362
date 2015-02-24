@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST362: Modern Revolutions"
+course_description: "An exploration of the political and social revolutions that have shaped the modern world between the 18th and 20th centuries, with particular emphasis on their causes and lasting global impact."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Seventeenth-Century England - Revolution or Civil War?** <span
 id="3"></span> 
 **In this unit, you will study the English Revolution, or rather several
